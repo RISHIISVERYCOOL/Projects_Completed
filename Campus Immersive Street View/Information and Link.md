@@ -1,1 +1,3 @@
+# [Campus Immersive Street View](https://www.figma.com/proto/8GBl0qs45akvDlldSYo42i/NMIMS-Campus-Map-Walkthrough?node-id=142-5&starting-point-node-id=142%3A5&t=J2WI9iczq7rkqxd9-1)
+This project was created by me and my fellow batchmates. The idea behind selecting this project was because of something which I believed I could inculcate into the main college website, as even though there were multiple images of the college from the outside, I wanted to bring a street style view map into the college's main website so that juniors could not only see how creative we think but also how beautiful we also design and want to represent ourselves to the world to acknoledge us. 
 
